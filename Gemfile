@@ -8,6 +8,8 @@ gem 'sqlite3', group: :development
 
 gem 'carrierwave'
 
+gem 'mini_magick'
+
 gem 'figaro'
 
 gem 'fog'
