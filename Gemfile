@@ -8,6 +8,8 @@ gem 'sqlite3', group: :development
 
 gem 'carrierwave'
 
+gem 'searchkick'
+
 gem 'devise'
 
 gem 'mini_magick'
